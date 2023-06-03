@@ -5,3 +5,6 @@
 
 ## [Hotel Revenue](https://github.com/Worapitcha5972/Hotel_Revenue)
 > This repository houses a project dedicated to analyzing hotel revenue utilizing an extensive hotel revenue dataset, leveraging Microsoft SQL and Power BI. 
+
+## [British Airways Data Science virtual experience programme](https://github.com/Worapitcha5972/British-Airways_Data_Science)
+> This project is an integral part of the Data Science virtual internship program offered by Forage in collaboration with British Airways, focuses on utilizing Python to collect review data from Skytrex and performs data preparation and analysis to uncover valuable insights.
