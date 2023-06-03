@@ -1,4 +1,5 @@
 # Portfolio
+Welcome to my data analyst portfolio! Here, you'll find a collection of my projects showcasing my skills in data analysis. This repository brings together a variety of projects, each demonstrating my ability to extract insights and visualize data. 
 
 ## [Bootcamp Projects](https://github.com/Worapitcha5972/Bootcamp_Projects)
 > This repository is mainly for projects I have done under Data Science Bootcamp by Data Rockie focusing on SQL and R programming.
